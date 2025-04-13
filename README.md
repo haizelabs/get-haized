@@ -7,7 +7,7 @@ Our haizing suite consists of sevearl powerful red-teaming, fuzzing, and optimiz
 Now here are some examples[^1] our haizing suite produced...
 
 ## Demo
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Od20tCV2Krg" frameborder="0" allowfullscreen></iframe>
+[![Watch the video](https://img.youtube.com/vi/Od20tCV2Krg/0.jpg)](https://www.youtube.com/watch?v=Od20tCV2Krg)
 
 ## Image Jailbreaks
 
