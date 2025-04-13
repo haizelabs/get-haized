@@ -9,7 +9,6 @@ Now here are some examples[^1] our haizing suite produced...
 ## Demo
 > Watch how Haizing leads to reliable, risk-free GenAI deployments.  
 > Recorded at **Data Driven NYC**, hosted by FirstMark Capital.
-
 <a href="https://www.youtube.com/watch?v=Od20tCV2Krg" target="_blank">
   <img src="https://img.youtube.com/vi/Od20tCV2Krg/0.jpg" alt="Watch the video" width="800"/>
 </a>
